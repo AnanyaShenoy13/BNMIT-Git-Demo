@@ -1,2 +1,2 @@
 # BNMIT-Git-Demo
-Demo Git 
+Demo Git Session
